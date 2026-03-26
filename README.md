@@ -1,0 +1,81 @@
+# CircusP – Circus Monster
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Time is dead and gone, show must go on
+It's time for our act
+They all scream at me, they can not see
+This curtain hides me
+An amazing gift, so quick and swift
+You were amazing
+By myself I can't, they start to chant
+Why are you not here?
+
+Grinning at me, I lay on my knees
+They want to hear me, why can not he see?
+I want to see you, I need to see you
+I have to see you, what happened to you?
+We get up on stage, they jump to enrage
+Why are you not here? Why is he so near?
+He wants me to sing, I just can not bring –
+I say, "he's not you," what else can I do?
+
+Singing it's silent song of misery
+A monster lies trapped in it's own nightmare
+He is a tyrant, it lets out a plea
+"Why did she have to leave it all alone?"
+Bound to sing for us, a worthless monster
+It never sees us, it despises us
+Lying so useless, we start to holler
+"Hey, get up you worthless circus monster!"
+
+I lay all alone, I should have known
+You would have left me
+He smiles at me, I can not see why he's in your place
+They can't tell me why you said, "goodbye," right before our act
+Those two young lions were always so fun
+Why did they leave, too?
+
+Roaring at me, I lay on my knees
+What is happening? I can hear you sing
+They will not obey, they've been lead astray
+Will I still see you? I have to see you
+I panic and flee, they both pounce on me
+I fall to the ground, I can't hear a sound
+I look up and see you are not with me
+Am I all alone? Where could you have gone?
+
+Singing it's silent song of misery
+A monster lies trapped in it's own nightmare
+He is a tyrant, it lets out a plea
+"Why did she have to leave it all alone?"
+Bound to sing for us, a worthless monster
+It never sees us, it despises us
+Lying so useless, we start to holler
+"Hey, get up you worthless circus monster!"
+
+(Ha-ah-ah-ah)
+(Ha-ah, ooh-ooh-ooh)
+(Ha-ah, ah-ah-ah)
+(Ooh-ooh-ooh, ooh)
+
+Singing it's silent song of misery
+A monster lies trapped in it's own nightmare
+He is a tyrant, it lets out a plea
+"Why did she have to leave it all alone?"
+Bound to sing for us, a worthless monster
+It never sees us, it despises us
+Lying so useless, we start to holler
+"Hey, get up you worthless circus monster!"
+
+Singing my silent song of misery
+This monster lies trapped in my own nightmare
+He is a tyrant, I let out a plea
+"Why did you have to leave me all alone?"
+Bound to sing for them, a worthless monster
+I never see them, I dispise them so
+Lying so useless, they start to holler
+"Hey, get up you worthless circus monster!"
+Ooh-ooh
+```
