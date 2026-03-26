@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Circus Monster",
+  "base_artist": "CircusP",
+  "createdAt": "2026-03-26T13:59:20.498103Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Circus Monster (Music Box)",
+      "artist": "CircusP",
+      "has_synced": false,
+      "path": "select/01_Circus_Monster_(Music_Box)_CircusP.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Circus Monster [Music Box] ft. KAITO",
+      "artist": "Circus-P, KAITO",
+      "has_synced": false,
+      "path": "select/02_Circus_Monster_[Music_Box]_ft._KAITO_Circus-P,_KAITO.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Circus Monster",
+      "artist": "CircusP",
+      "has_synced": false,
+      "path": "select/03_Circus_Monster_CircusP.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Circus Monster",
+      "artist": "JubyPhonic",
+      "has_synced": true,
+      "path": "select/04_Circus_Monster_JubyPhonic.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Circus Monster  (Cover) 【JubyPhonic】",
+      "artist": "JubyPhonic",
+      "has_synced": true,
+      "path": "select/05_Circus_Monster_(Cover)_【JubyPhonic】_JubyPhonic.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Circus Monster",
+      "artist": "CircusP",
+      "has_synced": true,
+      "path": "select/06_Circus_Monster_CircusP.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Circus Monster",
+      "artist": "Circus-P",
+      "has_synced": false,
+      "path": "select/pl_01_Circus_Monster_Circus-P.txt"
+    }
+  ]
+}
